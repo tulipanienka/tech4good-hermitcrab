@@ -3,8 +3,8 @@ Repo of Hermit Crab team for Tech4Good hackathon organised by Codam and TSH (May
 
 
 # Goal of the project
-The Hackathon's challenge was to create an improved customer interaction with homeowners who want to renovate their homes.  
-
+## Challenge
+The Hackathon's challenge was to create an improved customer interaction with homeowners who want to renovate their homes. Besides the fact that it's difficult home owners right information and there's no one-size-fits-all solution available at this time, it's also challenging to grasp the full scope of renovation and to make such a large investment upfront.
 
 # Solution and deliverables
 We designed the customer interaction and a starter app in Flutter. We educate the users and motivate them to provide information with visual feedback and increasingly precise savings estimation.
