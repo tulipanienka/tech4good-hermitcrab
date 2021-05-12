@@ -2,9 +2,15 @@
 Repo of Hermit Crab team for Tech4Good hackathon organised by Codam and TSH (May 2021).
 
 
+# Goal of the project
+The Hackathon's challenge was to create an improved customer interaction with homeowners who want to renovate their homes.  
 
-- Goal of the hackathon and this repo
 
-- Deliverables: webflow link and technical info about the code 
+# Solution and deliverables
+We designed the customer interaction and a starter app in Flutter. We educate the users and motivate them to provide information with visual feedback and increasingly precise savings estimation.
 
-- explanation of our idea and main assumptions
+### App design
+We used Webflow to showcase the structure of the app and the flow of the interaction. You can find it [here](https://tech4good-test2.webflow.io/). 
+
+### Flutter app
+This repo contains the code of the app in Flutter. The app is to showcase the potential implementation of our idea. 
