@@ -39,13 +39,28 @@ class _HotWaterSourcePageState extends State<HotWaterSourcePage> {
                   ),
                 ),
               ),
+              SizedBox(height: 8),
               Text(
-                  "Take a picture of your systeem",
-                  textAlign: TextAlign.center,
-                  style: TextStyle(
-                    fontSize: 32,
-                  ),
+                "Take a picture of your systeem",
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontSize: 16,
                 ),
+              ),
+              SizedBox(height: 16),
+              RaisedButton(
+                child: Icon(
+                  Icons.camera_alt,
+                  color: Colors.white,
+                ),
+                shape: new RoundedRectangleBorder(
+                  borderRadius: new BorderRadius.circular(30.0),
+                ),
+                color: Colors.blue,
+                onPressed: () {
+                  
+                },
+              ),
             ],
           ),
         ),

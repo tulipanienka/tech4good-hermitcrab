@@ -57,12 +57,7 @@ class _IsolationPageState extends State<IsolationPage> {
                     ),
                   ),
                   onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (BuildContext context) => SelectHome(),
-                      ),
-                    );
+                    //
                   },
                 ),
               ),
@@ -77,12 +72,7 @@ class _IsolationPageState extends State<IsolationPage> {
                     ),
                   ),
                   onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (BuildContext context) => SelectHome(),
-                      ),
-                    );
+                    //
                   },
                 ),
               ),
@@ -97,12 +87,7 @@ class _IsolationPageState extends State<IsolationPage> {
                     ),
                   ),
                   onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (BuildContext context) => SelectHome(),
-                      ),
-                    );
+                   //
                   },
                 ),
               ),
@@ -117,12 +102,7 @@ class _IsolationPageState extends State<IsolationPage> {
                     ),
                   ),
                   onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (BuildContext context) => SelectHome(),
-                      ),
-                    );
+                    //
                   },
                 ),
               ),

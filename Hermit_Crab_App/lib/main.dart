@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'pages/home.dart';
+import 'pages/select_home.dart';
 import 'pages/isolation_page.dart';
 import 'pages/hot_water_source_page.dart';
 import 'pages/electricity_cource_page.dart';
@@ -22,10 +23,10 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/': (context) => Home(),
-        // '/select_home': (context) => SelectHome(),
+        '/select_home': (context) => SelectHome(),
         '/isolation_page': (context) => IsolationPage(),
-        'hot_water_source_page': (context) => HotWaterSourcePage(),
-        'electricity_cource_page': (context) => ElectricitySourcePage(),
+        '/hot_water_source_page': (context) => HotWaterSourcePage(),
+        '/electricity_cource_page': (context) => ElectricitySourcePage(),
       },
     );
   }

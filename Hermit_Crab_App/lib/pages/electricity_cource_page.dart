@@ -33,21 +33,29 @@ class _ElectricitySourcePageState extends State<ElectricitySourcePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   RaisedButton(
+                    child: Text(
+                      "Yes",
+                      style: TextStyle(color: Colors.white),
+                    ),
+                    padding: EdgeInsets.all(0.0),
+                    color: Colors.blue,
                     onPressed: () {
                       sleep(Duration(seconds: 1));
                       Navigator.pop(context);
                     },
-                    padding: EdgeInsets.all(0.0),
-                    child: Text("Yes"),
                   ),
                   SizedBox(width: 8),
                   RaisedButton(
+                    child: Text(
+                      "No",
+                      style: TextStyle(color: Colors.white),
+                    ),
+                    padding: EdgeInsets.all(0.0),
+                    color: Colors.blue,
                     onPressed: () {
                       sleep(Duration(seconds: 1));
                       Navigator.pop(context);
                     },
-                    padding: EdgeInsets.all(0.0),
-                    child: Text("No"),
                   ),
                 ],
               )
