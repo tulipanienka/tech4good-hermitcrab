@@ -14,3 +14,6 @@ We used Webflow to showcase the structure of the app and the flow of the interac
 
 ### Flutter app
 This repo contains the code of the app in Flutter. The app is to showcase the potential implementation of our idea. 
+
+# Authors
+Team Hermit Crab: [Bram Provoost](https://github.com/BramProvoost), [Michele Sessa](https://github.com/mikysett), [Joanna Wytrzyszczewska](https://github.com/tulipanienka). 
