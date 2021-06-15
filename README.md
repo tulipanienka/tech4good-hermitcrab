@@ -20,4 +20,4 @@ The most important files for the app are in the folder: "Hermit_Crab_App/lib/"
 We recognised problems the homeowners have when it comes to deciding on their house renovation. We decided to implement elements of information about particular aspects of the house to allow the users to educate themselves on why it matters to renovate them and what is the impact they can expect. Additionally, we implemented elements to keep the motivation going - the app main page is an image of a house which will get coloured with every new piece of information about the user's house. Moreover, with every new information, the estimated savings after a house improvement are more precisely calculated. Hence, the users feel rewarded every step they take and are likely to continue and tinish the process. 
 
 # Authors
-Team Hermit Crab: [Bram Provoost](https://github.com/BramProvoost), [Michele Sessa](https://github.com/mikysett), [Joanna Wytrzyszczewska](https://github.com/tulipanienka). 
+Team Hermit Crab: [Bram Provoost](https://github.com/BramProvoost), [Michele Sessa](https://github.com/mikysett), [Joanna Wytrzyszczewska](https://github.com/vendelle). 
